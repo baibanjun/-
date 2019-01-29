@@ -1,0 +1,35 @@
+{
+  "name": "chwl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@192.168.10.220:chwlcd/chwl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "uglifyjs-webpack-plugin": "^1.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "webpack": '2.1.0'
+    "laravel-elixir": "^6.0.0-9",
+    "laravel-elixir-vue": "^0.1.4"
+    //新鲜东西:帮助在lavarel构建vue插件
+    "vue": "^2.1.0", //vue.js
+    "vue-resource": "^1.0.1", //vue版ajax请求用的插件
+    "vue-router": "^2.1.1", //vue核心路由插件 "stylus": "^0.54.5", //一种很爽的css的书写方式 "stylus-loader": "^2.4.0" //自然就是翻译stylus成真正css的东西 }
+  }
